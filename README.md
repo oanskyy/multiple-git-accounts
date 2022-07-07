@@ -42,3 +42,19 @@ Bash Commands to Manage Directories and Files
        - delete files (rm ) and directories (rm -r)
        - copy files (cp) and directories (cp -r) to another directory
        - easily create new files using a single command (touch)
+       
+       
+       
+       
+Edit the file with vim:
+[https://www.cyberciti.biz/faq/how-do-i-save-changes-in-vim/]
+
+Commands to save changes in **vim**
+
+The procedure is as follows to save a file in Vim and quit the editor:
+    Start vim by typing vim filename
+    To insert text press i
+    Now start editing text. Add new text or delete unwanted text.
+    Press Esc key and type :w to save a file in vim.
+    One can press Esc and type :wq to save changes to a file and exit from vim
+    Another option is to press :x

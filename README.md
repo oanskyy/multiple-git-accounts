@@ -9,11 +9,10 @@ https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-window
 <!-- 3 Medium - jun2020 -->
 https://betterprogramming.pub/how-to-use-multiple-github-accounts-with-one-computer-c9ba3f851b75
 
-
 <!-- 4 dev.to - jul2020 -->
-https://dev.to/jogendra/how-to-use-multiple-github-accounts-on-single-machine-2me9
+https://jogendra.dev/how-to-use-multiple-github-accounts-on-single-machine
 
-<!-- 5 dev.to - sep2020 -->
+<!-- 5 BEST: dev.to - sep2020 -->
 https://dev.to/sammm/setting-up-multiple-github-accounts-on-the-same-computer-without-having-to-change-the-repo-url-1007
 
 
